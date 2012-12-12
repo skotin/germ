@@ -46,8 +46,8 @@ while 1:
         mikrob.update(time_passed)
         mikrob.draw(screen)
 
-        if pygame.sprite.spritecollide(mikrob,bakterias, True):
-            print "1"
+#        if pygame.sprite.spritecollide(mikrob,bakterias, True):
+#            print "1"
 
 
     for bakteria in bakterias:
