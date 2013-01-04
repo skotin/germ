@@ -47,7 +47,7 @@ while 1:
         mikrob.draw(screen)
 
 #        if pygame.sprite.spritecollide(mikrob,bakterias, True):
-#            print "1"
+#        print "1"
 
 
     for bakteria in bakterias:
